@@ -5,3 +5,4 @@ Moscow is capital of Russia
 Paris  is the capical of France
 =======
 >>>>>>> parent of 5e7442c... Capitals added
+1
